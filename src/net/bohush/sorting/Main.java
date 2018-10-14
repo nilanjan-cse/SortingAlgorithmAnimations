@@ -1,5 +1,5 @@
 package net.bohush.sorting;
-
+// this error coming while running -> Error: Could not find or load main class Main
 import javax.swing.*;
 
 import java.awt.*;
